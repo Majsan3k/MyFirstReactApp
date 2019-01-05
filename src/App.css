@@ -48,7 +48,7 @@ p{
     margin: 25px;
 }
 
-.box-not-clicked{
+.box{
   background-color: #ff99b4;
   width: 100px;
   height: 100px;

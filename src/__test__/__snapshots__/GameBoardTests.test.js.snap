@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameBoard should render correctly 1`] = `
+<div
+  className="GameBoard"
+>
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box"
+  >
+    <p>
+      2
+    </p>
+  </div>
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box"
+  >
+    <p>
+      2
+    </p>
+  </div>
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+  <div
+    className="box no-value"
+  />
+</div>
+`;
